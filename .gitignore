@@ -1,0 +1,5 @@
+*.pem
+*.key
+work/
+Thumbs.db
+.DS_Store
